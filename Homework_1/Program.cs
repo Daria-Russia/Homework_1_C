@@ -11,5 +11,3 @@ Console.WriteLine("min number "+M);}
 else
 {Console.WriteLine("max number "+M);
 Console.WriteLine("min number "+N);}
-
-
