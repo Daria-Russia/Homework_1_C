@@ -1,5 +1,6 @@
 ﻿
 
+
 //Task 8
 Console.Write("Insert a number: ");
 int A = Convert.ToInt32(Console.ReadLine());
