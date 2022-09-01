@@ -1,4 +1,4 @@
-﻿
+﻿//There is a separate branch for each task
 //Task 2
 Console.Write("Insert the first number: ");
 int N = Convert.ToInt32(Console.ReadLine()); 
