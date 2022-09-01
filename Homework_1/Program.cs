@@ -1,7 +1,7 @@
 ﻿
 
 //Task 8
-Console.Write("Insert the first number: ");
+Console.Write("Insert a number: ");
 int A = Convert.ToInt32(Console.ReadLine());
 for (int x=1; x<A; x++)
 if (x%2==0)
